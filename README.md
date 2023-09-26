@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Ryan Cruz 👋
 
+
 ### 📱 Redes Sociais:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryancruzcoder)
@@ -42,8 +43,9 @@
 
 <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 
+</br>
 
-
+![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
 
 
 
