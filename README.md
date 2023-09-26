@@ -12,6 +12,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryancruzcoder&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryancruzcoder&hide_progress=true&theme=radical&show_icons=true)
+
 ### 🔥 Tecnologias:
 
 <div style="display: inline_block"></br>
@@ -25,6 +27,21 @@
     <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img align="center" alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 </div>
+
+### 🔀 Controle de Versionamento:
+
+<img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+
+### 🧑‍💻 Ferramentas para Desenvolvimento:
+
+<img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+
+### 💬 Ferramentas para Desenvolvimento de APIs:
+
+<img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+
 
 
 
