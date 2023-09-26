@@ -45,7 +45,7 @@
 
 </br>
 
-![snake gif](https://github.com/ryancruzcoder/ryancruzcoder/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/Xandre23/Xandre23/blob/output/github-contribution-grid-snake.svg)
 
 
 
