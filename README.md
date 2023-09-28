@@ -13,7 +13,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryancruzcoder&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryancruzcoder&hide_progress=true&theme=radical&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryancruzcoder&layout=compact&theme=midnight-purple)](https://github.com/ryancruzcoder/github-readme-stats)
 
 ### 🔥 Tecnologias:
 
