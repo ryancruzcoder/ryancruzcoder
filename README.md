@@ -11,7 +11,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5535991913143&text=Ol%C3%A1%20Ryan%20Cruz!%20Entrei%20em%20contato%20atrav%C3%A9s%20do%20seu%20GitHub.)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryancruz.assessoria@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryancruzcoder&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryancruzcoder&show_icons=true&theme=midnight-purple)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryancruzcoder&layout=compact&theme=midnight-purple)](https://github.com/ryancruzcoder/github-readme-stats)
 
