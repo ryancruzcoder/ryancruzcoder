@@ -24,15 +24,16 @@
     <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img align="center" alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img align="center" alt="Puppeteer" src="https://img.shields.io/badge/Puppeteer-870000?style=for-the-badge&logo=puppeteer&logoColor=white">
     <img align="center" alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
     <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img align="center" alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
     <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-1572B6?style=for-the-badge&logo=docker&logoColor=white">
     <img align="center" alt="TypeScript" src="https://img.shields.io/badge/typescript-004e87?style=for-the-badge&logo=typescript&logoColor=white">
-
+    <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+    <img align="center" alt="+ MAIS" src="https://img.shields.io/badge/+MAIS-000000?style=for-the-badge&logo=+MAIS&logoColor=white">
 </div>
 
 ### 🔀 Controle de Versionamento:
@@ -40,14 +41,9 @@
 <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
-### 🧑‍💻 Ferramentas para Desenvolvimento:
 
-<img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 
-### 💬 Ferramentas para Desenvolvimento de APIs:
 
-<img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 
 </br>
 
